@@ -1,0 +1,34 @@
+"use strict";  //treat all JS code as newer version
+
+
+//alert( 3 + 3) //we are using node js, not browser
+
+//console.log(3
+   // +
+    // 3);//code readability should be high
+    //console.log("Anubhav");
+
+    //dataTypes
+
+    //number => 2 to power 53
+    //bigint
+    //string => ""
+    //boolean =>true/false
+    //null => standa lone value
+    //undefined =>
+    //symbol => unique
+
+    let name = "Anubhav"
+    let age = 20
+    let isLoggedIn = false
+
+    console.log(typeof "Anubhav");
+    console.log(typeof age);
+    console.log(typeof isLoggedIn);
+
+    console.log(typeof undefined); //ans is undefined
+    console.log(typeof isLoggedIn); //ans is Object
+
+   
+
+   
